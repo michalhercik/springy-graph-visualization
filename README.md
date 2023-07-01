@@ -1,5 +1,7 @@
 # Graph Visualization
 
+Graph visualization using springy algorithm. Written in C# with WinForms.
+
 ## Run
 
 `cd .\GraphVisualization\ ; dotnet run`
